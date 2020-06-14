@@ -29,12 +29,18 @@ body {
 
 
 .sidenav a:hover {
-  color: blue;
+  color: black;
 }
 
-.h2 {
+.info {
   color: white;
 }
+
+.fort {
+  color: white;
+}
+
+
 
 
 
